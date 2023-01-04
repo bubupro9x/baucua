@@ -1,0 +1,12 @@
+.root {
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+  padding: 16px;
+  z-index: 4;
+  position: relative;
+}
+
+.root > a{
+  margin-right: 8px;
+}
